@@ -2,7 +2,7 @@
  (name "Arduino")
  (description "Arduino boards.")
  (keywords "")
- (author "Danilo Bargen")
+ (author "LibrePCB")
  (version "0.1")
  (created 2018-11-17T11:44:39Z)
  (deprecated false)
