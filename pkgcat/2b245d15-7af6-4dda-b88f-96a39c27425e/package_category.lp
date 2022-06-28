@@ -1,0 +1,10 @@
+(librepcb_package_category 2b245d15-7af6-4dda-b88f-96a39c27425e
+ (name "Arduino Nano")
+ (description "")
+ (keywords "")
+ (author "desnot")
+ (version "0.1")
+ (created 2022-06-27T22:18:04Z)
+ (deprecated false)
+ (parent none)
+)
