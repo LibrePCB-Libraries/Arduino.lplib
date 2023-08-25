@@ -2,10 +2,10 @@ name: CI
 on: [push, pull_request]
 jobs:
   check:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     container:
-      image: librepcb/librepcb-cli:0.1.5
+      image: librepcb/librepcb-cli:1.0.0-rc1
       options: --entrypoint /bin/bash
     steps:
     - uses: actions/checkout@v1
-    - run: librepcb-cli open-library --all --strict .
+    - run: librepcb-cli open-library --all --strict --minify-step .
