@@ -7,5 +7,5 @@
  (created 2018-11-17T11:44:39Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Arduino.lplib")
- (manufacturer "")
+ (manufacturer "Arduino")
 )
