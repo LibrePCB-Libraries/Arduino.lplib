@@ -3,7 +3,7 @@
  (description "A cheap Arduino board based on the ATMEGA328P.")
  (keywords "arduino,nano,atmega328p")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-11-17T11:47:05Z)
  (deprecated false)
  (generated_by "")
