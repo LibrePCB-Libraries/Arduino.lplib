@@ -162,4 +162,5 @@
  (text 600a537c-d977-47fd-b2fc-47c511799417 (layer sym_values) (value "{{VALUE}}")
   (align left top) (height 2.54) (position -10.16 -20.32) (rotation 0.0)
  )
+ (approved name_not_title_case)
 )

@@ -131,4 +131,5 @@
    (pin d90b3a0a-26db-4dcd-b687-6b0a327f8590 (signal 3f9441fd-caa2-4600-98d0-65c2bb809e1c) (text signal))
   )
  )
+ (approved name_not_title_case)
 )
