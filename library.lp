@@ -3,7 +3,7 @@
  (description "Arduino boards.")
  (keywords "")
  (author "LibrePCB")
- (version "0.1.2")
+ (version "0.1.3")
  (created 2018-11-17T11:44:39Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Arduino.lplib")
