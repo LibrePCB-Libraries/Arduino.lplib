@@ -2,9 +2,9 @@ name: CI
 on: [push, pull_request]
 jobs:
   check:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     container:
-      image: librepcb/librepcb-cli:1.0.0-rc1
+      image: librepcb/librepcb-cli:2.0.0-rc1
       options: --entrypoint /bin/bash
     steps:
     - uses: actions/checkout@v1
