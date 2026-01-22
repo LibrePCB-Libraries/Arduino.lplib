@@ -1,9 +1,9 @@
 (librepcb_symbol c246298d-5ec5-4633-bcee-497b5c83d3cf
  (name "Arduino Uno")
- (description "Most used and most standard Arduino.")
- (keywords "avr")
+ (description "Most used and most standard Arduino with ATMega328P microcontroller.")
+ (keywords "avr,atmega328p")
  (author "Timo Klinge")
- (version "0.2")
+ (version "0.2.1")
  (created 2024-09-19T13:39:53Z)
  (deprecated false)
  (generated_by "")
